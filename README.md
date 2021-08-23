@@ -26,9 +26,35 @@ The system is developed for college or university with intended users being stud
 
 ## Steps to Install
 
-1. Clone the ![Github repo](https://github.com/yatinsatija/RVCEx)
-2. Install ![Node and Npm](https://phoenixnap.com/kb/install-node-js-npm-on-windows)
-3. Setup ![Firebase](https://dev.to/farazamiruddin/react-firebase-add-firebase-to-a-react-app-4nc9)
+1. Clone the [Github repo](https://github.com/yatinsatija/RVCEx)
+2. Install [Node and Npm](https://phoenixnap.com/kb/install-node-js-npm-on-windows)
+3. Setup [Firebase](https://dev.to/farazamiruddin/react-firebase-add-firebase-to-a-react-app-4nc9)
 4. Go to the project directory.
 5. Run `npm install`.
 6. Run `npm start`.
+
+## Result Snippets
+
+1. Landing Page and Leaderboard<br/>
+   ![alt-text](https://github.com/yatinsatija/RVCEx/blob/main/resultSnippets/LeaderBoard.png)
+   <br/>
+
+2. Login and SignUp Page<br/>
+   ![alt-text](https://github.com/yatinsatija/RVCEx/blob/main/resultSnippets/LoginSignup.png)
+   <br/>
+
+3. Main Dashboard<br/>
+   ![alt-text](https://github.com/yatinsatija/RVCEx/blob/main/resultSnippets/MainDash.png)
+   <br/>
+
+4. Uploaded Products<br/>
+   ![alt-text](https://github.com/yatinsatija/RVCEx/blob/main/resultSnippets/UploadedProducts.png)
+   <br/>
+
+5. Upload Product Page<br/>
+   ![alt-text](https://github.com/yatinsatija/RVCEx/blob/main/resultSnippets/UploadProduct2.png)
+   <br/>
+
+6. Global Chat<br/>
+   ![alt-text](https://github.com/yatinsatija/RVCEx/blob/main/resultSnippets/GlobalChat.png)
+   <br/>
